@@ -8,7 +8,6 @@ export default function Homepage() {
         URL Shortener
           </Heading>
           <InputForm />
-          <Text m={ '3%' }>Made with ❤️ by Me ( <a target="_blank" href="https://akshay-kumar-portfoilo.netlify.app/"> Akshay Kumar</a>)</Text>
     </>
   )
 }
