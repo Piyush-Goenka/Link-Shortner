@@ -59,9 +59,3 @@ The URL Shortener Web Application will be running on `http://localhost:your-port
 ## Deployment
 - Backend: Deployed on [Render](https://render.com)
 - Frontend: Deployed on [Vercel](https://vercel.com)
-
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please create a new issue or submit a pull request.
-
-## Contact
-For any inquiries or questions, feel free to reach out via [email](mailto:piyushgoenka11@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/akshay-kumar046203/](https://www.linkedin.com/in/piyush-goenka-648888318/)).
